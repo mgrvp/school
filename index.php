@@ -368,7 +368,7 @@
                   </p>
                   <div class="d-flex justify-content-between align-items-center mt-1">
                     <small class="text-muted"><?php echo $waktu[$x]; ?></small>
-                    <a href="http://sma-arrisalah.sch.id/read/41/upload-hasil-penilaian-tengah-semester-ganjiltahun-pelajaran-20202021" class="btn btn-sm action-button rounded-0"><i class="fa fa-search"></i></a>
+                    <a href="http://sma-arrisalah.sch.id/read/41/upload-hasil-penilaian-tengah-semester-ganjiltahun-pelajaran-20202021" class="btn btn-sm action-button rounded-0">Lihat</a>
                   </div>
                 </div>
               </div>
